@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\BroadwayTicket\bin\Debug\BroadwayTicket.exe.config
+C:\Users\mdbul\source\repos\BroadwayTicket\bin\Debug\BroadwayTicket.exe
+C:\Users\mdbul\source\repos\BroadwayTicket\bin\Debug\BroadwayTicket.pdb
+C:\Users\mdbul\source\repos\BroadwayTicket\bin\Debug\BroadwayTicket.xml
+C:\Users\mdbul\source\repos\BroadwayTicket\obj\Debug\BroadwayTicket.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\BroadwayTicket\obj\Debug\BroadwayTicket.Resources.resources
+C:\Users\mdbul\source\repos\BroadwayTicket\obj\Debug\BroadwayTicket.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\BroadwayTicket\obj\Debug\BroadwayTicket.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\BroadwayTicket\obj\Debug\BroadwayTicket.exe
+C:\Users\mdbul\source\repos\BroadwayTicket\obj\Debug\BroadwayTicket.xml
+C:\Users\mdbul\source\repos\BroadwayTicket\obj\Debug\BroadwayTicket.pdb
+C:\Users\mdbul\source\repos\BroadwayTicket\obj\Debug\BroadwayTicket.frmBroadwayTicket.resources
